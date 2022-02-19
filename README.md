@@ -18,4 +18,4 @@ Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das 
 <center><img alt="Analisando Airbnb" width="10%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
 </div>
 
-**Neste *notebook*, iremos analisar os dados referentes à cidade de Boston, e ver quais insights podem ser extraídos a partir de dados brutos.**
+**Aqui, iremos analisar os dados referentes à cidade de Boston, e ver quais insights podem ser extraídos a partir de dados brutos.**
