@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-Amanda-red.svg)](https://www.linkedin.com/in/amandamagalhaesantonio/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-# Análise dos Dados do Airbnb - Boston
+# Análise dos Dados do Airbnb - Boston 
 
 O [Airbnb](https://www.airbnb.com.br/) já é considerado como sendo a **maior empresa hoteleira da atualidade**. Ah, o detalhe é que ele **não possui nenhum hotel**!
 
@@ -10,6 +10,8 @@ No final de 2018, a Startup fundada 10 anos atrás, já havia **hospedado mais d
 
 Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das principais cidades do mundo. Por meio do portal [Inside Airbnb](http://insideairbnb.com/get-the-data.html), é possível baixar uma grande quantidade de dados para desenvolver projetos e soluções de *Data Science*.
 
- <center><img alt="Analisando Airbnb" width="10%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
+<div align= 'center'>
+<center><img alt="Analisando Airbnb" width="10%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
+</div>
 
 **Neste *notebook*, iremos analisar os dados referentes à cidade de Boston, e ver quais insights podem ser extraídos a partir de dados brutos.**
