@@ -1,7 +1,11 @@
 [![author](https://img.shields.io/badge/author-Amanda-red.svg)](https://www.linkedin.com/in/amandamagalhaesantonio/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-# Análise dos Dados do Airbnb - Boston 
-
+<div align= 'center'>
+  
+#   Análise dos Dados do Airbnb - Boston
+  
+<div>
+  
 O [Airbnb](https://www.airbnb.com.br/) já é considerado como sendo a **maior empresa hoteleira da atualidade**. Ah, o detalhe é que ele **não possui nenhum hotel**!
 
 Conectando pessoas que querem viajar (e se hospedar) com anfitriões que querem alugar seus imóveis de maneira prática, o Airbnb fornece uma plataforma inovadora para tornar essa hospedagem alternativa.
