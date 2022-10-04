@@ -18,7 +18,7 @@ Uma das iniciativas do Airbnb é disponibilizar dados do site, para algumas das 
 <center><img alt="Analisando Airbnb" width="10%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
 </div>
 
-**Aqui, iremos analisar os dados referentes à cidade de Boston, e ver quais insights podem ser extraídos a partir de dados brutos.**
+**Aqui, você verá uma análise de dados referentes à cidade de Boston, e ver quais insights foram gerados.**
   
  Artigo:<a href= "https://www.linkedin.com/pulse/airbnb-em-boston-acomoda%25C3%25A7%25C3%25B5es-ber%25C3%25A7o-da-independ%25C3%25AAncia-amanda"><i> Airbnb em Boston:Acomodações no berço da independência americana<i></a>
   
